@@ -17,3 +17,20 @@
   
   - **src/components/Content.tsx**
     Esse componente, ainda vazio, deve possuir toda a lógica e corpo responsável pelo header e conteúdo da aplicação
+
+<br>
+
+## :computer: Iniciando o app
+  ```
+  yarn install
+  yarn server
+  yarn dev
+ 
+  ```
+  ou
+  ```
+  npm install
+  npm run server
+  npm run dev
+ 
+  ```
